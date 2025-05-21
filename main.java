@@ -110,10 +110,7 @@ public class main {
    }
 
    public static void showGameScreen() {
-        for(int i  = 0; i < 5; i++){
-            System.out.print(i);
-        }
-       
+        
 
 	   
 
